@@ -8,23 +8,23 @@ html {
     padding: 0;
     margin: 0;
     font-family: sans-serif;
-    color: rgb(14, 102, 87);
+    color: rgb(84, 85, 85);
 }
 
 main,
 .site-name {
-    background-color: #b8cba2;
+    background-color: #989996;
 }
 
 a,
 .btn-no-style,
 #comment-subtitle {
-    color: #b8cba2;
+    color:  #989996;
 }
 
 a:hover,
 .btn-no-style:hover {
-    color: #e2edd5;
+    color: #b1b2b0;
 }
 
 a {
@@ -34,7 +34,7 @@ a {
 }
 
 button {
-    background-color: #22a326;
+    background-color: #c6c7c7;
     border: 0;
     padding: 1%;
     color: white;
@@ -45,7 +45,7 @@ button {
 }
 
 button:hover {
-    background-color: #49eb34;
+    background-color: #98999;
 }
 
 .post-list {
@@ -68,7 +68,7 @@ input {
 textarea:focus,
 input:focus {
     outline: none;
-    border: 1px solid #34eb62;
+    border: 1px solid #989962;
 }
 
 textarea {
@@ -103,7 +103,7 @@ header,
 .site-row,
 .info-section,
 .form-heading {
-    background-color: #86b724;
+    background-color: #989924;
 }
 
 .login-page,
